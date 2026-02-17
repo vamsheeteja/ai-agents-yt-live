@@ -8,3 +8,4 @@ langgraph
 youtube-search-python
 youtube-search
 langchain-groq
+wikipedia
