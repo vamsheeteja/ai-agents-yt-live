@@ -10,3 +10,4 @@ youtube-search
 langchain-groq
 wikipedia
 ddgs
+yfinance
